@@ -4,7 +4,7 @@
   "description": "Convert bytes to human-readable file sizes",
   "main": "index.js",
   "bin": {
-    "filesize-formatter": "./cli.js"
+    "sizey": "./cli.js"
   },
   "keywords": ["file size", "formatter", "bytes", "cli"],
   "author": "Your Name",
