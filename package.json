@@ -1,0 +1,12 @@
+{
+  "name": "sizey",
+  "version": "1.0.0",
+  "description": "Convert bytes to human-readable file sizes",
+  "main": "index.js",
+  "bin": {
+    "filesize-formatter": "./cli.js"
+  },
+  "keywords": ["file size", "formatter", "bytes", "cli"],
+  "author": "Your Name",
+  "license": "MIT"
+}
