@@ -11,7 +11,7 @@ npm install sizey
 ## Usage 
 In Node.js
 ```js
-const formatFileSize = require("@mehulk6/filesize-formatter");
+const formatFileSize = require("sizey");
 
 console.log(formatFileSize(1024));        // 1 KB
 console.log(formatFileSize(1048576));     // 1 MB
@@ -19,5 +19,5 @@ console.log(formatFileSize(1048576));     // 1 MB
 
 In cli
 ```bash
-npx @mehulk6/filesize-formatter 1024
+npx sizey 1024
 ```
